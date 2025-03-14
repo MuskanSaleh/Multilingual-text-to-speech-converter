@@ -52,5 +52,7 @@ This project is open-source and available under the MIT License.
 - [langdetect](https://pypi.org/project/langdetect/)
 
 ---
+Thanks to Sir Asad Raza Malik for teaching us new things. 🙌
 Happy coding! 🚀
+
 
