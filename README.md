@@ -51,6 +51,11 @@ This project is open-source and available under the MIT License.
 - [Google Text-to-Speech (gTTS)](https://pypi.org/project/gTTS/)
 - [langdetect](https://pypi.org/project/langdetect/)
 
+## 👥 Contributors
+
+- [Muskan Saleh](https://github.com/MuskanSaleh)
+- [Asad Raza Malik](https://github.com/Asad-Raza-Malik) 
+
 ---
 Thanks to Sir Asad Raza Malik for teaching us new things. 🙌
 Happy coding! 🚀
